@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate at [HKUST NLP Group](https://hkust-nlp.github.io/), supervised by [Professor Junxian He](https://jxhe.github.io/). I graduated from Shanghai Jiao Tong University (SJTU) in June 2024. My research focuses on natural language processing and machine learning.
+I am a first-year PhD candidate at HKUST NLP Group, supervised by Professor Junxian He. I previously was advised by Professor Junxian He during my undergraduate studies at Shanghai Jiao Tong University (SJTU). I graduated from Shanghai Jiao Tong University (SJTU) in June 2024. My research focuses on natural language processing and machine learning.
 
 Research Interests
 ======
@@ -17,11 +17,11 @@ Research Interests
 
 Education
 ======
-* **Ph.D. in Computer Science (2024-Present)**, Hong Kong University of Science and Technology (HKUST)
+* **Ph.D. in Computer Science (2024-Present)**, Hong Kong University of Science and Technology
   * HKUST NLP Group, supervised by Professor Junxian He
-* **B.Eng. (2020-2024)**, Shanghai Jiao Tong University (SJTU)
+* **B.Eng. (2020-2024)**, Shanghai Jiao Tong University
   * Graduated in June 2024
-  * Received Zhiyuan Honor Scholarship
+  * Received Zhiyuan Honor Scholarship, awarded by Shanghai Jiao Tong University
 
 Research Experience
 ======
@@ -31,13 +31,18 @@ Research Experience
 * **Research Intern at Shanghai AI Lab** (June 2023 - December 2023)
   * Advisor: Prof. Yu Cheng
 
+Skills
+======
+* Natural Language Processing
+* Machine Learning
+
 Publications
 ======
-* **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025) — **First author**. Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *ArXiv*. [[GitHub](https://github.com)]
+* **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025) — **First author**. Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *ArXiv*. Has GitHub code repository.
 
-* **On the Perception Bottleneck of VLMs for Chart Understanding** (2025) — **First author**. Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *ArXiv*. [[GitHub Vision4Chart](https://github.com)]
+* **On the Perception Bottleneck of VLMs for Chart Understanding** (2025) — **First author**. Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *ArXiv*. Has GitHub code repository: Vision4Chart.
 
-* **On the Universal Truthfulness Hyperplane Inside LLMs** (2024) — **First author**. Shiqi Chen, Yu Cheng, Junxian He. *EMNLP 2024*. [[GitHub Universal_Truthfulness_Hyperplane](https://github.com)]
+* **On the Universal Truthfulness Hyperplane Inside LLMs** (2024) — **First author**. Shiqi Chen, Yu Cheng, Junxian He. *EMNLP 2024*. Has GitHub code repository: Universal_Truthfulness_Hyperplane.
 
 * **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (2024). Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. *ICML 2024*.
 
@@ -47,7 +52,7 @@ Publications
 
 Contact
 ======
-* Email: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
-* GitHub: [Vicent0205](https://github.com/Vicent0205)
-* Google Scholar: [https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
-* X (Twitter): [@junteng88716710](https://twitter.com/junteng88716710)
+* Email: jliugi@connect.ust.hk
+* GitHub: Vicent0205 (https://github.com/Vicent0205)
+* Google Scholar: https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate
+* X (Twitter): @junteng88716710
