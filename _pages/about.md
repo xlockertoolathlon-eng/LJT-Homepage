@@ -38,11 +38,11 @@ Skills
 
 Publications
 ======
-* **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025) — **First author**. Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *ArXiv*. Has GitHub code repository.
+* **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025) — First author. Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *ArXiv*. Has GitHub code repository.
 
-* **On the Perception Bottleneck of VLMs for Chart Understanding** (2025) — **First author**. Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *ArXiv*. Has GitHub code repository: Vision4Chart.
+* **On the Perception Bottleneck of VLMs for Chart Understanding** (2025) — First author. Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *ArXiv*. Has GitHub code repository: Vision4Chart.
 
-* **On the Universal Truthfulness Hyperplane Inside LLMs** (2024) — **First author**. Shiqi Chen, Yu Cheng, Junxian He. *EMNLP 2024*. Has GitHub code repository: Universal_Truthfulness_Hyperplane.
+* **On the Universal Truthfulness Hyperplane Inside LLMs** (2024) — First author. Shiqi Chen, Yu Cheng, Junxian He. *EMNLP 2024*. Has GitHub code repository: Universal_Truthfulness_Hyperplane.
 
 * **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (2024). Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. *ICML 2024*.
 
