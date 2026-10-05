@@ -35,13 +35,16 @@ Research Experience
 Publications
 ======
 * **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025) — *First author*  
-  Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He — *ArXiv, 2025*\n  Code repository available.
+  Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He — *ArXiv, 2025*  
+  Code repository available.
 
 * **On the Perception Bottleneck of VLMs for Chart Understanding** (2025) — *First author*  
-  Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He — *ArXiv, 2025*\n  Code: Vision4Chart.
+  Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He — *ArXiv, 2025*  
+  Code: Vision4Chart.
 
 * **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024) — *First author*  
-  Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He — *EMNLP 2024*\n  Code: Universal_Truthfulness_Hyperplane.
+  Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He — *EMNLP 2024*  
+  Code: Universal_Truthfulness_Hyperplane.
 
 * **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (ICML 2024)  
   Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He — *ICML 2024*
